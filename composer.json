@@ -1,0 +1,17 @@
+{
+    "name": "oktopost/tattler-wordpress",
+    "description": "Wordpress Tattler client",
+    "type": "wordpress-plugin",
+    "require": {
+        "oktopost/tattler-php": "^1.0",
+        "predis/predis": "^1.1"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Daniel Podrabinek",
+            "email": "dpodrabinek@oktopost.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
